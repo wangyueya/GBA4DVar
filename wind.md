@@ -1,4 +1,4 @@
-## wind reanalysis
+## Wind reanalysis
 This page shows the wind reanalysis results.
 
 ### 1. Wind Reanalysis at 1000hPa
